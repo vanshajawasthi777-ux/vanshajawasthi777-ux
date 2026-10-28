@@ -11,7 +11,7 @@ Building projects to understand how AI works under the hood.
 <img src="https://komarev.com/ghpvc/?username=vanshajawasthi777-ux&style=for-the-badge&color=161b22&label=PROFILE+VIEWS" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/vanshajawasthi777-ux?style=for-the-badge&color=161b22&label=FOLLOWERS" alt="GitHub followers"/>
 
-[GitHub](https://github.com/vanshajawasthi777-ux) · [LinkedIn](https://www.linkedin.com/in/vanshajawasthii) · [X](https://x.com/vanshaj7777)
+[GitHub](https://github.com/vanshajawasthi777-ux) · [LinkedIn](https://www.linkedin.com/in/vanshajawasthii) · [Instagram](https://www.instagram.com/vanshajawasthiii) · [X](https://x.com/vanshaj7777)
 
 </div>
 
@@ -92,6 +92,7 @@ A computer-vision desktop prototype exploring real-time hand gesture recognition
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/vanshajawasthii)
+- [Instagram](https://www.instagram.com/vanshajawasthiii)
 - [X](https://x.com/vanshaj7777)
 - [Kaggle](https://www.kaggle.com/vanshajawasthii)
 - [LeetCode](https://www.leetcode.com/vanshajawasthii)
